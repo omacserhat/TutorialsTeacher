@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\CSharpTutorials\bin\Debug\CSharpTutorials.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\CSharpTutorials\bin\Debug\CSharpTutorials.exe
+C:\Users\PC\source\repos\CSharpTutorials\CSharpTutorials\bin\Debug\CSharpTutorials.pdb
+C:\Users\PC\source\repos\CSharpTutorials\CSharpTutorials\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\CSharpTutorials\obj\Debug\CSharpTutorials.exe
+C:\Users\PC\source\repos\CSharpTutorials\CSharpTutorials\obj\Debug\CSharpTutorials.pdb
