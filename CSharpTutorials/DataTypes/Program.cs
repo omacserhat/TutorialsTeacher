@@ -116,6 +116,70 @@ namespace DataTypes
             DateTime dt4 = new DateTime(2015, 12, 31, 5, 10, 20, DateTimeKind.Utc);
             Console.WriteLine(dt4);
 
+
+
+            DateTime currentDateTime = DateTime.Now;
+            DateTime todaysDate = DateTime.Today;
+            DateTime currentDateTimeUTC = DateTime.UtcNow;
+
+            DateTime maxDateTimeValue = DateTime.MaxValue;
+            DateTime minDateTimeValue = DateTime.MinValue;
+
+            //statil alanlar : Yapı statik alanlar, özellik ve yöntemi içermektedir. Aşağıdaki örnek, önemli statik alanları ve özellikleri gösterir.
+
+            Console.WriteLine($"Current DateTime {currentDateTime}"); //geçerli tarih ve saati döndürür
+            Console.WriteLine($"Today's DateTime {todaysDate}");// bugünün tarihini döndürür
+            Console.WriteLine($"Current DateTime UTC Timezone {currentDateTimeUTC}"); // geçerli UTC tarih ve saatini döndürür
+
+            Console.WriteLine($"Max DateTime Value {maxDateTimeValue}"); //DateTime'ın maksimum değerini döndürür
+            Console.WriteLine($"Min DateTime Value {minDateTimeValue}");//DateTime'ın minimum değerini döndürür
+
+
+            //TimeSpan, zamanı gün, saat, dakika, saniye ve milisaniye cinsinden temsil etmek için kullanılan bir yapıdır.
+
+            DateTime dt = new DateTime(2015, 12, 31);
+
+            TimeSpan ts = new TimeSpan(25, 20, 55);
+
+            DateTime newDate = dt.Add(ts);
+
+            Console.WriteLine(newDate);//1/1/2016 1:20:55 AM
+
+            //İki tarihin çıkarılması, TimeSpan ile sonuçlanır.
+            DateTime dt10 = new DateTime(2015, 12, 31);
+            DateTime dt20 = new DateTime(2016, 2, 2);
+            TimeSpan result = dt20.Subtract(dt10);//33.00:00:00
+            Console.WriteLine(result);
+
+
+
+            //Yapı aşırı yükler +, -, ==, =,>, <, <=,> = operatörler tarihleri toplama, çıkarma ve karşılaştırma dışarı kolaylaştırmak için. Bunlar tarihlerle çalışmayı kolaylaştırır.
+
+            //DateTime dt1 = new DateTime(2015, 12, 20);
+            //DateTime dt2 = new DateTime(2016, 12, 31, 5, 10, 20);
+            //TimeSpan time = new TimeSpan(10, 5, 25, 50);
+
+            //Console.WriteLine(dt2 + time);
+            //Console.WriteLine(dt2 - dt1);
+            //Console.WriteLine(dt1 == dt2);
+            //Console.WriteLine(dt1 != dt2);
+            //Console.WriteLine(dt1 > dt2);
+            //Console.WriteLine(dt1 < dt2);
+            //Console.WriteLine(dt1 >= dt2);
+            //Console.WriteLine(dt1 <= dt2);
+
+
+            //geçerli bir tarih dizesi olup olmadığı
+
+            //var str = "5/12/2020";
+            //DateTime dt;
+
+            //var isValidDate = DateTime.TryParse(str, out dt);
+            //if (isValidDate)
+            //    Console.WriteLine(dt);
+            //else
+            //    Console.WriteLine($"{str} is not a valid date string");
+
             Console.ReadLine();
         }
     }

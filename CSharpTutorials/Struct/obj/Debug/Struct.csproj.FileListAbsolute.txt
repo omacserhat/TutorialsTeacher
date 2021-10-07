@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\Struct\bin\Debug\Struct.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\Struct\bin\Debug\Struct.exe
+C:\Users\PC\source\repos\CSharpTutorials\Struct\bin\Debug\Struct.pdb
+C:\Users\PC\source\repos\CSharpTutorials\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\Struct\obj\Debug\Struct.exe
+C:\Users\PC\source\repos\CSharpTutorials\Struct\obj\Debug\Struct.pdb
