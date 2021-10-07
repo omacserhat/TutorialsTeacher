@@ -39,6 +39,84 @@ namespace DataTypes
             //int   i = 345;
             //Int32 i = 345;   2side aynı anlama gelir
 
+
+            //-----------------------------------------STRING KISMI-------------------------------------------
+
+
+            string ch = "S";
+            char harf1 = 'M';
+
+            Console.WriteLine(ch);
+            Console.WriteLine(harf1);
+
+
+            char[] chars = { 'H', 'e', 'l', 'l', 'o' };
+
+            string str1 = new string(chars);
+            String str2 = new String(chars);
+
+            foreach (char c in str1)
+            {
+                Console.WriteLine(c);
+            }
+
+            string text = "This is a \"string\" in C#.";
+            string str = "xyzdef\\rabc";
+            string path = "\\\\mypc\\ shared\\project";
+
+            Console.WriteLine(text);
+            Console.WriteLine(str);
+            Console.WriteLine(path);
+
+
+        
+            string email = @"test@test.com";
+
+
+            Console.WriteLine(email);
+
+
+            //+ operatörü ile birden fazla dizi birleştirilebilir.
+            string name = "Mr." + "James " + "Bond" + ", Code: 007";
+
+            string firstName = "James";
+            string lastName = "Bond";
+            string code = "007";
+
+            string agent = "Mr." + firstName + " " + lastName + ", Code: " + code;
+
+            Console.WriteLine(name);
+            Console.WriteLine(agent);
+
+
+            //String Interpolation -- Dize enterpolasyonu, dizeleri birleştirmenin daha iyi bir yoludur. Dize değişkenlerini statik dizelerle birleştirmek için + işaretini kullanırız.
+            //string firstName = "James";
+            //string lastName = "Bond";
+            //string code = "007";
+
+            //string fullName = $"Mr. {firstName} {lastName}, Code: {code}";
+
+            //----------------------------DATE TIME-----------------------------------------------
+
+            //DateTime dt = new DateTime(); // varsayılan değeri atar 01/01/0001 00:00:00
+
+            //assigns default value 01/01/0001 00:00:00
+            DateTime dt1 = new DateTime();
+            Console.WriteLine(dt1);
+
+            //assign year, month, day
+            DateTime dt2 = new DateTime(2015, 12, 31);
+            Console.WriteLine(dt2);
+
+            //assign year, month, day, hour, min, seconds
+            DateTime dt3 = new DateTime(2015, 12, 31, 5, 10, 20);
+            Console.WriteLine(dt3);
+
+            //assign year, month, day, hour, min, seconds, UTC timezone
+            DateTime dt4 = new DateTime(2015, 12, 31, 5, 10, 20, DateTimeKind.Utc);
+            Console.WriteLine(dt4);
+
+            Console.ReadLine();
         }
     }
 }
