@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\ImplicitlyTypedVarriable\bin\Debug\ImplicitlyTypedVarriable.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\ImplicitlyTypedVarriable\bin\Debug\ImplicitlyTypedVarriable.exe
+C:\Users\PC\source\repos\CSharpTutorials\ImplicitlyTypedVarriable\bin\Debug\ImplicitlyTypedVarriable.pdb
+C:\Users\PC\source\repos\CSharpTutorials\ImplicitlyTypedVarriable\obj\Debug\ImplicitlyTypedVarriable.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\ImplicitlyTypedVarriable\obj\Debug\ImplicitlyTypedVarriable.exe
+C:\Users\PC\source\repos\CSharpTutorials\ImplicitlyTypedVarriable\obj\Debug\ImplicitlyTypedVarriable.pdb

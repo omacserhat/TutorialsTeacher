@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\Keywords\bin\Debug\Keywords.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\Keywords\bin\Debug\Keywords.exe
+C:\Users\PC\source\repos\CSharpTutorials\Keywords\bin\Debug\Keywords.pdb
+C:\Users\PC\source\repos\CSharpTutorials\Keywords\obj\Debug\Keywords.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\Keywords\obj\Debug\Keywords.exe
+C:\Users\PC\source\repos\CSharpTutorials\Keywords\obj\Debug\Keywords.pdb

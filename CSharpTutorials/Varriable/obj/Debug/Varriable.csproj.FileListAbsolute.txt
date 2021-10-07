@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\Varriable\bin\Debug\Varriable.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\Varriable\bin\Debug\Varriable.exe
+C:\Users\PC\source\repos\CSharpTutorials\Varriable\bin\Debug\Varriable.pdb
+C:\Users\PC\source\repos\CSharpTutorials\Varriable\obj\Debug\Varriable.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\Varriable\obj\Debug\Varriable.exe
+C:\Users\PC\source\repos\CSharpTutorials\Varriable\obj\Debug\Varriable.pdb
