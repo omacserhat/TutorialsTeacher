@@ -5,67 +5,67 @@
 ## C# Yazılım Kavramları
 
 >Compile: 
->Sadece edit�r de o an a��k olan sayfay� derler.
+>Sadece editör de o an açık olan sayfayı derler.
 
  >Build:
- >En son yap�lan build i�leminden sonra �zerinde de�i�iklik yap�lan t�m dosyalar� derler.
+ >En son yapılan build işleminden sonra üzerinde değişiklik yapılan tüm dosyaları derler.
 
 >Rebuild:
->Herhangi bir durumu dikkate almaks�z�n projenin tamam�n� yeniden derler. T�m proje yeniden derlenece�inden Build i�lemine g�re daha uzun s�recektir ancak build ile derleme s�ras�nda olu�an hatalar� rebuild ile ��zebilirsiniz.
+>Herhangi bir durumu dikkate almaksızın projenin tamamını yeniden derler. Tüm proje yeniden derleneceğinden Build işlemine göre daha uzun sürecektir ancak build ile derleme sırasında oluşan hataları rebuild ile çözebilirsiniz.
 
 >Clean: 
->Derleme sonras�nda olu�an ge�ici ve kal�c� t�m dosyalar temizlenir. Bir sonraki derleme i�leminde temiz bir ba�lang�� yap�l�r. Genellikle proje kodlar� bir ba�kas�na g�nderilmek istenildi�inde hem proje boyutunu ufaltmak hemde gereksiz dosyalardan kurtulmak ad�na tercih edilir.
+>Derleme sonrasında oluşan geçici ve kalıcı tüm dosyalar temizlenir. Bir sonraki derleme işleminde temiz bir başlangıç yapılır. Genellikle proje kodları bir başkasına gönderilmek istenildiğinde hem proje boyutunu ufaltmak hemde gereksiz dosyalardan kurtulmak adına tercih edilir.
 
->Deployment(Da��t�m):
->Bilgisayar bilimlerinde bu anlam �yaz�l�m� da��tmak, yaymak, sahaya yerle�tirmek� gibi anlamlara gelir. Her yaz�l�m sistemi kendine �zg� oldu�undan dolay� projelerin canl� ortama deploy edilmesi farkl� a�amalar gerektirebilir.
+>Deployment(Dağıtım):
+>Bilgisayar bilimlerinde bu anlam “yazılımı dağıtmak, yaymak, sahaya yerleştirmek” gibi anlamlara gelir. Her yazılım sistemi kendine özgü olduğundan dolayı projelerin canlı ortama deploy edilmesi farklı aşamalar gerektirebilir
 
 ## GENEL KAVRAMLAR
 
 >DEVOPS:
->Yaz�l�m �reten tak�m ile yaz�l�m� sunuculara yerle�tiren, aya�a kald�ran, sunucular�n hayatta ve sa�l�kl� olmas�ndan sorumlu tak�m aras�nda ya�anan problemleri en aza indirgeyerek m��teri memnuniyetini sa�lamak.
+>Yazılım üreten takım ile yazılımı sunuculara yerleştiren, ayağa kaldıran, sunucuların hayatta ve sağlıklı olmasından sorumlu takım arasında yaşanan problemleri en aza indirgeyerek müşteri memnuniyetini sağlamak.
 
 >HANGFIRE:
->Arka planda �al��acak olan baz� i�ler yarat�p, y�r�tmeyi ve y�netmeyi sa�layan a��k kaynakl� bir k�t�phane.
+>Arka planda çalışacak olan bazı işler yaratıp, yürütmeyi ve yönetmeyi sağlayan açık kaynaklı bir kütüphane.
 
 >VueJS:
->�nteraktif web aray�zleri olu�turmak ve ayn� zamanda tek sayfa web uygulamalar� geli�tirilmi� i�in kullan�nlan a��k kaynak kodlu bir Java Script k�t�phanesidir.
+>İnteraktif web arayüzleri oluşturmak ve aynı zamanda tek sayfa web uygulamaları geliştirilmiş için kullanınlan açık kaynak kodlu bir Java Script kütüphanesidir.
 
 ## GitHub
 
 >GitHub
->Ortak Proje Y�netim Alan�.
+>Ortak Proje Yönetim Alanı.
 
 ## GitHub Kavramlar�:
 
 >Working Directory: 
->�al��ma dizinini yani klas�r�n� ifade eder. Projenize ait dosya ve klas�rleri bar�nd�ran klas�rd�r.
+>Çalışma dizinini yani klasörünü ifade eder. Projenize ait dosya ve klasörleri barındıran klasördür.
 
 >Stage Area:
->Ge�i� b�lgesidir. Git sisteminde projenizin kopyas�n� almak istedi�inizde do�rudan depoya g�nderilmez. �nce Stage Area ad� verilen bir ge�i� b�lgesine g�nderilir. 
+>Geçiş bölgesidir. Git sisteminde projenizin kopyasını almak istediğinizde doğrudan depoya gönderilmez. Önce Stage Area adı verilen bir geçiş bölgesine gönderilir. 
 
 >Repository: 
->Projenize ait kopyalar�n yani yedeklerin tutuldu�u depodur. Git'in �al��ma yap�s�na g�re projenize ait alm�� oldu�unuz kopyalar do�rudan depoya g�nderilmez. �nce Stage Area ad� verilen bir ge�i� b�lgesine g�nderilir. Daha sonra farkl� bir komutla depoya eklenir.
+>Projenize ait kopyaların yani yedeklerin tutulduğu depodur. Git'in çalışma yapısına göre projenize ait almış olduğunuz kopyalar doğrudan depoya gönderilmez. Önce Stage Area adı verilen bir geçiş bölgesine   gönderilir. Daha sonra farklı bir komutla depoya eklenir.
 
 >Add: 
->Proje klas�r�nde yap�lan de�i�iklikleri Stage Area yani ge�i� b�lgesine ekleme i�lemidir. 
+>Proje klasöründe yapılan değişiklikleri Stage Area yani geçiş bölgesine ekleme işlemidir. 
 
 >Commit: 
->Stage Area'da bulunan de�i�ikliklerin Repository yani depoya eklenmesi i�lemidir. Daha net bir ifadeyle projenize ait yedek alma i�leminin ger�ekle�tirilmesidir. 
+>Stage Area'da bulunan değişikliklerin Repository yani depoya eklenmesi işlemidir. Daha net bir ifadeyle projenize ait yedek alma işleminin gerçekleştirilmesidir. 
 
 >Checkout: 
->Proje geli�tirme s�recinde ald���m�z yedekler yani s�r�mler aras� ge�i� yapma i�lemi i�in kullan�l�r. �rne�in; bir Java projesi geli�tiriyoruz ve "S�r�m 1", "S�r�m 2", "S�r�m 3" ad�nda 3 tane yede�imiz olsun. ��te bu s�r�mler aras� ge�i� yapabilmek i�in checkout komutu kullan�l�r. Belirtilen s�r�me tamamiyle ge�i� yapabildi�imiz gibi o s�r�me ait herhangi bir dosyay� geri getirme imk�n�m�z da bulunmaktad�r. 
+>Proje geliştirme sürecinde aldığımız yedekler yani sürümler arası geçiş yapma işlemi için kullanılır. Örneğin; bir Java projesi geliştiriyoruz ve "Sürüm 1", "Sürüm 2", "Sürüm 3" adında 3 tane yedeğimiz olsun. İşte bu sürümler arası geçiş yapabilmek için checkout komutu kullanılır. Belirtilen sürüme tamamiyle geçiş yapabildiğimiz gibi o sürüme ait herhangi bir dosyayı geri getirme imkânımız da bulunmaktadır. 
 
 >Push: 
->Projenize ait de�i�ikliklerin uzak sunucuya bildirilmesi i�lemidir. Github, Gitlab gibi servisler Git ile birlikte �al��ma �zelli�ine sahipler. Yani bilgisayar�n�zda olu�turdu�unuz bir projeyi Git ile birlikte geli�tirirseniz, push komutunu kulland���n�z takdirde projenizde yer alan dosya ve klas�rleri uzak sunucuya g�ndermi� olursunuz. 
+>Projenize ait değişikliklerin uzak sunucuya bildirilmesi işlemidir. Github, Gitlab gibi servisler Git ile birlikte çalışma özelliğine sahipler. Yani bilgisayarınızda oluşturduğunuz bir projeyi Git ile birlikte geliştirirseniz, push komutunu kullandığınız takdirde projenizde yer alan dosya ve klasörleri uzak sunucuya göndermiş olursunuz. 
 
 >Branch: 
->T�rk�esi dal demektir. Git sisteminin size sundu�u en b�y�k kolayl�klardan biri branch yani dallarla �al��abilmenizdir. Projenin ana dal� master olarak isimlendirilir. Siz master ad� verilen bu ana daldan, yeni bir branch(dal) olu�turup proje geli�tirmeye bu �ekilde devam edebilirsiniz. Bu �ekilde bir yol izledi�iniz takdirde yapaca��n�z i�lemler master(ana dal)'� etkilemez. Daha sonra yapt���n�z de�i�iklikleri master ile birle�tirme imkan�na sahipsiniz. Bu sistem sayesinde bir projede birden fazla ekip �yesi kendi branch(dal)'lar�n� olu�turup, projenin kendilerine d��en k�sm�n� master'� etkilemeyecek �ekilde bitirip, en son a�amada branch ile master'� birle�tirme imk�n�na sahiptir. 
+>Türkçesi dal demektir. Git sisteminin size sunduğu en büyük kolaylıklardan biri branch yani dallarla çalışabilmenizdir. Projenin ana dalı master olarak isimlendirilir. Siz master adı verilen bu ana daldan, yeni bir branch(dal) oluşturup proje geliştirmeye bu şekilde devam edebilirsiniz. Bu şekilde bir yol izlediğiniz takdirde yapacağınız işlemler master(ana dal)'ı etkilemez. Daha sonra yaptığınız değişiklikleri master ile birleştirme imkanına sahipsiniz. Bu sistem sayesinde bir projede birden fazla ekip üyesi kendi branch(dal)'larını oluşturup, projenin kendilerine düşen kısmını master'ı etkilemeyecek şekilde bitirip, en son aşamada branch ile master'ı birleştirme imkânına sahiptir. 
 
 >Master: 
->Yukar�da da bahsetti�im gibi projenin ana dal�d�r. 
+>Yukarıda da bahsettiğim gibi projenin ana dalıdır. 
 
 >Merge: 
->T�rk�e'si birle�tirmek demektir. Olu�turulan bir branch ile projenin ana dal� olan Master branch'�n� birle�tirmeye yarar. 
+>Türkçe'si birleştirmek demektir. Oluşturulan bir branch ile projenin ana dalı olan Master branch'ını birleştirmeye yarar. 
 
 >Status: 
->Projeye ait dosya ve klas�rlerin mevcut durumunu listeler. Yani proje klas�r� ile ge�i� b�lgesi ve depo aras�nda farkl�l�klar olup olmad���n� size bildirir.
+>Projeye ait dosya ve klasörlerin mevcut durumunu listeler. Yani proje klasörü ile geçiş bölgesi ve depo arasında farklılıklar olup olmadığını size bildirir.
