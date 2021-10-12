@@ -2,8 +2,9 @@
 ## COGUNLUKLA C# VE YAZILIMCI KAVRAMLARI ICERMEKTEDIR.
 
 
-##C#
-###Yazýlým Kavramlarý
+## C#
+
+## Yazýlým Kavramlarý
 
 >Compile: 
 >Sadece editör de o an açýk olan sayfayý derler.
