@@ -69,3 +69,24 @@
 
 >Status: 
 >Projeye ait dosya ve klasörlerin mevcut durumunu listeler. Yani proje klasörü ile geçiş bölgesi ve depo arasında farklılıklar olup olmadığını size bildirir.
+
+
+## KARIŞIK BİLGİLER
+
+>DoD -> Definition of Done (DoD) Nedir?
+
+Definition of Done (DoD) Product Backlog Item’ların (PBI) istenen kalitede teslim edilmesi için belirlenen aktiviteler listesi ve takım tarafından bir işin tamamlanmış olarak kabul edilmesi için yapılması gereken adımlardır.
+
+Definition of Done (DoD) Product Backlog Item’ların (PBI) istenen kalitede teslim edilmesi için belirlenen aktiviteler listesi ve takım tarafından bir işin tamamlanmış olarak kabul edilmesi için yapılması gereken adımlardır. Scrum içersinde Sprint’lerdeki hedef çalışır durumda canlıya atılmaya hazır yazılım teslimatları üretmektir. Bu anlamda DoD, canlıya atılmaya hazır bitmiş yazılımı üretmek için yapılması gereken standart aksiyonları belirlemelidir.
+
+Örneklemek gerekir ise, ihtiyaca göre standart bir DoD örneği aşağıda bulunabilir:
+
+> DOD Adımları Kontrol
+
+* Analiz	        Evet
+* Dizayn	        Evet
+* Kodlama	        Evet
+* Code Review	    Evet
+* Fonksiyonel Test	Evet
+* KKT	            Hayır
+* Dokümantasyon	    Hayır
