@@ -35,7 +35,7 @@
 >GitHub
 >Ortak Proje Yönetim Alanı.
 
-## GitHub Kavramlar�:
+## GitHub Kavramları:
 
 >Working Directory: 
 >Çalışma dizinini yani klasörünü ifade eder. Projenize ait dosya ve klasörleri barındıran klasördür.
