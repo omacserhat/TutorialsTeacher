@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\Collections\bin\Debug\Collections.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\Collections\bin\Debug\Collections.exe
+C:\Users\PC\source\repos\CSharpTutorials\Collections\bin\Debug\Collections.pdb
+C:\Users\PC\source\repos\CSharpTutorials\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\Collections\obj\Debug\Collections.exe
+C:\Users\PC\source\repos\CSharpTutorials\Collections\obj\Debug\Collections.pdb

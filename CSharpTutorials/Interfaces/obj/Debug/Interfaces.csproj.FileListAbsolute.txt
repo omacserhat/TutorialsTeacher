@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\PC\source\repos\CSharpTutorials\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\PC\source\repos\CSharpTutorials\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\PC\source\repos\CSharpTutorials\Interfaces\obj\Debug\Interfaces.pdb

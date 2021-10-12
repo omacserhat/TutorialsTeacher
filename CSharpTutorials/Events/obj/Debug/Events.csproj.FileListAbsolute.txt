@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\Events\bin\Debug\Events.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\Events\bin\Debug\Events.exe
+C:\Users\PC\source\repos\CSharpTutorials\Events\bin\Debug\Events.pdb
+C:\Users\PC\source\repos\CSharpTutorials\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\Events\obj\Debug\Events.exe
+C:\Users\PC\source\repos\CSharpTutorials\Events\obj\Debug\Events.pdb
