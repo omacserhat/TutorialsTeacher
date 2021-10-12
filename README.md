@@ -2,70 +2,70 @@
 ## COGUNLUKLA C# VE YAZILIMCI KAVRAMLARI ICERMEKTEDIR.
 
 
-## C# Yazýlým Kavramlarý
+## C# YazÄ±lÄ±m KavramlarÄ±
 
 >Compile: 
->Sadece editör de o an açýk olan sayfayý derler.
+>Sadece editï¿½r de o an aï¿½ï¿½k olan sayfayï¿½ derler.
 
  >Build:
- >En son yapýlan build iþleminden sonra üzerinde deðiþiklik yapýlan tüm dosyalarý derler.
+ >En son yapï¿½lan build iï¿½leminden sonra ï¿½zerinde deï¿½iï¿½iklik yapï¿½lan tï¿½m dosyalarï¿½ derler.
 
 >Rebuild:
->Herhangi bir durumu dikkate almaksýzýn projenin tamamýný yeniden derler. Tüm proje yeniden derleneceðinden Build iþlemine göre daha uzun sürecektir ancak build ile derleme sýrasýnda oluþan hatalarý rebuild ile çözebilirsiniz.
+>Herhangi bir durumu dikkate almaksï¿½zï¿½n projenin tamamï¿½nï¿½ yeniden derler. Tï¿½m proje yeniden derleneceï¿½inden Build iï¿½lemine gï¿½re daha uzun sï¿½recektir ancak build ile derleme sï¿½rasï¿½nda oluï¿½an hatalarï¿½ rebuild ile ï¿½ï¿½zebilirsiniz.
 
 >Clean: 
->Derleme sonrasýnda oluþan geçici ve kalýcý tüm dosyalar temizlenir. Bir sonraki derleme iþleminde temiz bir baþlangýç yapýlýr. Genellikle proje kodlarý bir baþkasýna gönderilmek istenildiðinde hem proje boyutunu ufaltmak hemde gereksiz dosyalardan kurtulmak adýna tercih edilir.
+>Derleme sonrasï¿½nda oluï¿½an geï¿½ici ve kalï¿½cï¿½ tï¿½m dosyalar temizlenir. Bir sonraki derleme iï¿½leminde temiz bir baï¿½langï¿½ï¿½ yapï¿½lï¿½r. Genellikle proje kodlarï¿½ bir baï¿½kasï¿½na gï¿½nderilmek istenildiï¿½inde hem proje boyutunu ufaltmak hemde gereksiz dosyalardan kurtulmak adï¿½na tercih edilir.
 
->Deployment(Daðýtým):
->Bilgisayar bilimlerinde bu anlam “yazýlýmý daðýtmak, yaymak, sahaya yerleþtirmek” gibi anlamlara gelir. Her yazýlým sistemi kendine özgü olduðundan dolayý projelerin canlý ortama deploy edilmesi farklý aþamalar gerektirebilir.
+>Deployment(Daï¿½ï¿½tï¿½m):
+>Bilgisayar bilimlerinde bu anlam ï¿½yazï¿½lï¿½mï¿½ daï¿½ï¿½tmak, yaymak, sahaya yerleï¿½tirmekï¿½ gibi anlamlara gelir. Her yazï¿½lï¿½m sistemi kendine ï¿½zgï¿½ olduï¿½undan dolayï¿½ projelerin canlï¿½ ortama deploy edilmesi farklï¿½ aï¿½amalar gerektirebilir.
 
 ## GENEL KAVRAMLAR
 
 >DEVOPS:
->Yazýlým üreten takým ile yazýlýmý sunuculara yerleþtiren, ayaða kaldýran, sunucularýn hayatta ve saðlýklý olmasýndan sorumlu takým arasýnda yaþanan problemleri en aza indirgeyerek müþteri memnuniyetini saðlamak.
+>Yazï¿½lï¿½m ï¿½reten takï¿½m ile yazï¿½lï¿½mï¿½ sunuculara yerleï¿½tiren, ayaï¿½a kaldï¿½ran, sunucularï¿½n hayatta ve saï¿½lï¿½klï¿½ olmasï¿½ndan sorumlu takï¿½m arasï¿½nda yaï¿½anan problemleri en aza indirgeyerek mï¿½ï¿½teri memnuniyetini saï¿½lamak.
 
 >HANGFIRE:
->Arka planda çalýþacak olan bazý iþler yaratýp, yürütmeyi ve yönetmeyi saðlayan açýk kaynaklý bir kütüphane.
+>Arka planda ï¿½alï¿½ï¿½acak olan bazï¿½ iï¿½ler yaratï¿½p, yï¿½rï¿½tmeyi ve yï¿½netmeyi saï¿½layan aï¿½ï¿½k kaynaklï¿½ bir kï¿½tï¿½phane.
 
 >VueJS:
->Ýnteraktif web arayüzleri oluþturmak ve ayný zamanda tek sayfa web uygulamalarý geliþtirilmiþ için kullanýnlan açýk kaynak kodlu bir Java Script kütüphanesidir.
+>ï¿½nteraktif web arayï¿½zleri oluï¿½turmak ve aynï¿½ zamanda tek sayfa web uygulamalarï¿½ geliï¿½tirilmiï¿½ iï¿½in kullanï¿½nlan aï¿½ï¿½k kaynak kodlu bir Java Script kï¿½tï¿½phanesidir.
 
 ## GitHub
 
 >GitHub
->Ortak Proje Yönetim Alaný.
+>Ortak Proje Yï¿½netim Alanï¿½.
 
-## GitHub Kavramlarý:
+## GitHub Kavramlarï¿½:
 
 >Working Directory: 
->Çalýþma dizinini yani klasörünü ifade eder. Projenize ait dosya ve klasörleri barýndýran klasördür.
+>ï¿½alï¿½ï¿½ma dizinini yani klasï¿½rï¿½nï¿½ ifade eder. Projenize ait dosya ve klasï¿½rleri barï¿½ndï¿½ran klasï¿½rdï¿½r.
 
 >Stage Area:
->Geçiþ bölgesidir. Git sisteminde projenizin kopyasýný almak istediðinizde doðrudan depoya gönderilmez. Önce Stage Area adý verilen bir geçiþ bölgesine gönderilir. 
+>Geï¿½iï¿½ bï¿½lgesidir. Git sisteminde projenizin kopyasï¿½nï¿½ almak istediï¿½inizde doï¿½rudan depoya gï¿½nderilmez. ï¿½nce Stage Area adï¿½ verilen bir geï¿½iï¿½ bï¿½lgesine gï¿½nderilir. 
 
 >Repository: 
->Projenize ait kopyalarýn yani yedeklerin tutulduðu depodur. Git'in çalýþma yapýsýna göre projenize ait almýþ olduðunuz kopyalar doðrudan depoya gönderilmez. Önce Stage Area adý verilen bir geçiþ bölgesine gönderilir. Daha sonra farklý bir komutla depoya eklenir.
+>Projenize ait kopyalarï¿½n yani yedeklerin tutulduï¿½u depodur. Git'in ï¿½alï¿½ï¿½ma yapï¿½sï¿½na gï¿½re projenize ait almï¿½ï¿½ olduï¿½unuz kopyalar doï¿½rudan depoya gï¿½nderilmez. ï¿½nce Stage Area adï¿½ verilen bir geï¿½iï¿½ bï¿½lgesine gï¿½nderilir. Daha sonra farklï¿½ bir komutla depoya eklenir.
 
 >Add: 
->Proje klasöründe yapýlan deðiþiklikleri Stage Area yani geçiþ bölgesine ekleme iþlemidir. 
+>Proje klasï¿½rï¿½nde yapï¿½lan deï¿½iï¿½iklikleri Stage Area yani geï¿½iï¿½ bï¿½lgesine ekleme iï¿½lemidir. 
 
 >Commit: 
->Stage Area'da bulunan deðiþikliklerin Repository yani depoya eklenmesi iþlemidir. Daha net bir ifadeyle projenize ait yedek alma iþleminin gerçekleþtirilmesidir. 
+>Stage Area'da bulunan deï¿½iï¿½ikliklerin Repository yani depoya eklenmesi iï¿½lemidir. Daha net bir ifadeyle projenize ait yedek alma iï¿½leminin gerï¿½ekleï¿½tirilmesidir. 
 
 >Checkout: 
->Proje geliþtirme sürecinde aldýðýmýz yedekler yani sürümler arasý geçiþ yapma iþlemi için kullanýlýr. Örneðin; bir Java projesi geliþtiriyoruz ve "Sürüm 1", "Sürüm 2", "Sürüm 3" adýnda 3 tane yedeðimiz olsun. Ýþte bu sürümler arasý geçiþ yapabilmek için checkout komutu kullanýlýr. Belirtilen sürüme tamamiyle geçiþ yapabildiðimiz gibi o sürüme ait herhangi bir dosyayý geri getirme imkânýmýz da bulunmaktadýr. 
+>Proje geliï¿½tirme sï¿½recinde aldï¿½ï¿½ï¿½mï¿½z yedekler yani sï¿½rï¿½mler arasï¿½ geï¿½iï¿½ yapma iï¿½lemi iï¿½in kullanï¿½lï¿½r. ï¿½rneï¿½in; bir Java projesi geliï¿½tiriyoruz ve "Sï¿½rï¿½m 1", "Sï¿½rï¿½m 2", "Sï¿½rï¿½m 3" adï¿½nda 3 tane yedeï¿½imiz olsun. ï¿½ï¿½te bu sï¿½rï¿½mler arasï¿½ geï¿½iï¿½ yapabilmek iï¿½in checkout komutu kullanï¿½lï¿½r. Belirtilen sï¿½rï¿½me tamamiyle geï¿½iï¿½ yapabildiï¿½imiz gibi o sï¿½rï¿½me ait herhangi bir dosyayï¿½ geri getirme imkï¿½nï¿½mï¿½z da bulunmaktadï¿½r. 
 
 >Push: 
->Projenize ait deðiþikliklerin uzak sunucuya bildirilmesi iþlemidir. Github, Gitlab gibi servisler Git ile birlikte çalýþma özelliðine sahipler. Yani bilgisayarýnýzda oluþturduðunuz bir projeyi Git ile birlikte geliþtirirseniz, push komutunu kullandýðýnýz takdirde projenizde yer alan dosya ve klasörleri uzak sunucuya göndermiþ olursunuz. 
+>Projenize ait deï¿½iï¿½ikliklerin uzak sunucuya bildirilmesi iï¿½lemidir. Github, Gitlab gibi servisler Git ile birlikte ï¿½alï¿½ï¿½ma ï¿½zelliï¿½ine sahipler. Yani bilgisayarï¿½nï¿½zda oluï¿½turduï¿½unuz bir projeyi Git ile birlikte geliï¿½tirirseniz, push komutunu kullandï¿½ï¿½ï¿½nï¿½z takdirde projenizde yer alan dosya ve klasï¿½rleri uzak sunucuya gï¿½ndermiï¿½ olursunuz. 
 
 >Branch: 
->Türkçesi dal demektir. Git sisteminin size sunduðu en büyük kolaylýklardan biri branch yani dallarla çalýþabilmenizdir. Projenin ana dalý master olarak isimlendirilir. Siz master adý verilen bu ana daldan, yeni bir branch(dal) oluþturup proje geliþtirmeye bu þekilde devam edebilirsiniz. Bu þekilde bir yol izlediðiniz takdirde yapacaðýnýz iþlemler master(ana dal)'ý etkilemez. Daha sonra yaptýðýnýz deðiþiklikleri master ile birleþtirme imkanýna sahipsiniz. Bu sistem sayesinde bir projede birden fazla ekip üyesi kendi branch(dal)'larýný oluþturup, projenin kendilerine düþen kýsmýný master'ý etkilemeyecek þekilde bitirip, en son aþamada branch ile master'ý birleþtirme imkânýna sahiptir. 
+>Tï¿½rkï¿½esi dal demektir. Git sisteminin size sunduï¿½u en bï¿½yï¿½k kolaylï¿½klardan biri branch yani dallarla ï¿½alï¿½ï¿½abilmenizdir. Projenin ana dalï¿½ master olarak isimlendirilir. Siz master adï¿½ verilen bu ana daldan, yeni bir branch(dal) oluï¿½turup proje geliï¿½tirmeye bu ï¿½ekilde devam edebilirsiniz. Bu ï¿½ekilde bir yol izlediï¿½iniz takdirde yapacaï¿½ï¿½nï¿½z iï¿½lemler master(ana dal)'ï¿½ etkilemez. Daha sonra yaptï¿½ï¿½ï¿½nï¿½z deï¿½iï¿½iklikleri master ile birleï¿½tirme imkanï¿½na sahipsiniz. Bu sistem sayesinde bir projede birden fazla ekip ï¿½yesi kendi branch(dal)'larï¿½nï¿½ oluï¿½turup, projenin kendilerine dï¿½ï¿½en kï¿½smï¿½nï¿½ master'ï¿½ etkilemeyecek ï¿½ekilde bitirip, en son aï¿½amada branch ile master'ï¿½ birleï¿½tirme imkï¿½nï¿½na sahiptir. 
 
 >Master: 
->Yukarýda da bahsettiðim gibi projenin ana dalýdýr. 
+>Yukarï¿½da da bahsettiï¿½im gibi projenin ana dalï¿½dï¿½r. 
 
 >Merge: 
->Türkçe'si birleþtirmek demektir. Oluþturulan bir branch ile projenin ana dalý olan Master branch'ýný birleþtirmeye yarar. 
+>Tï¿½rkï¿½e'si birleï¿½tirmek demektir. Oluï¿½turulan bir branch ile projenin ana dalï¿½ olan Master branch'ï¿½nï¿½ birleï¿½tirmeye yarar. 
 
 >Status: 
->Projeye ait dosya ve klasörlerin mevcut durumunu listeler. Yani proje klasörü ile geçiþ bölgesi ve depo arasýnda farklýlýklar olup olmadýðýný size bildirir.
+>Projeye ait dosya ve klasï¿½rlerin mevcut durumunu listeler. Yani proje klasï¿½rï¿½ ile geï¿½iï¿½ bï¿½lgesi ve depo arasï¿½nda farklï¿½lï¿½klar olup olmadï¿½ï¿½ï¿½nï¿½ size bildirir.
