@@ -1,4 +1,5 @@
-# OGRENDIKLERIM
+# Bilgi olmayan yerde, cehalet ilim olur... :)
+
 ### ÇOĞUNLUKLA C# VE YAZILIMCI KAVRAMLARI İÇERMEKTEDİR.
 
 
