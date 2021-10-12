@@ -1,2 +1,0 @@
-C:\Users\PC\source\repos\CSharpTutorials\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\CSharpTutorials\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
