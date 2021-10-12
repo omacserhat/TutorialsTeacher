@@ -73,7 +73,7 @@
 
 ## KARIŞIK BİLGİLER
 
->DoD -> Definition of Done (DoD) Nedir?
+### DoD -> Definition of Done (DoD) Nedir?
 
 Definition of Done (DoD) Product Backlog Item’ların (PBI) istenen kalitede teslim edilmesi için belirlenen aktiviteler listesi ve takım tarafından bir işin tamamlanmış olarak kabul edilmesi için yapılması gereken adımlardır.
 
