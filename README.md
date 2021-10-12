@@ -1,1 +1,1 @@
-# TutorialsTeacher
+# ÖÐRENDÝKLERÝM
