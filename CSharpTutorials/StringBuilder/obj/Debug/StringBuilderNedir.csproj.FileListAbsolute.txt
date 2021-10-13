@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\PC\source\repos\CSharpTutorials\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\PC\source\repos\CSharpTutorials\StringBuilder\obj\Debug\StringBuilderNedir.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\PC\source\repos\CSharpTutorials\StringBuilder\obj\Debug\StringBuilder.pdb

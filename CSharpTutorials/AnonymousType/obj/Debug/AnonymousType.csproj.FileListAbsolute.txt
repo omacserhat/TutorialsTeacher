@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\AnonymousType\bin\Debug\AnonymousType.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\AnonymousType\bin\Debug\AnonymousType.exe
+C:\Users\PC\source\repos\CSharpTutorials\AnonymousType\bin\Debug\AnonymousType.pdb
+C:\Users\PC\source\repos\CSharpTutorials\AnonymousType\obj\Debug\AnonymousType.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpTutorials\AnonymousType\obj\Debug\AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\AnonymousType\obj\Debug\AnonymousType.exe
+C:\Users\PC\source\repos\CSharpTutorials\AnonymousType\obj\Debug\AnonymousType.pdb

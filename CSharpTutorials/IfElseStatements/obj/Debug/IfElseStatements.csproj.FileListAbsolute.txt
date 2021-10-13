@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\IfElseStatements\bin\Debug\IfElseStatements.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\IfElseStatements\bin\Debug\IfElseStatements.exe
+C:\Users\PC\source\repos\CSharpTutorials\IfElseStatements\bin\Debug\IfElseStatements.pdb
+C:\Users\PC\source\repos\CSharpTutorials\IfElseStatements\obj\Debug\IfElseStatements.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\IfElseStatements\obj\Debug\IfElseStatements.exe
+C:\Users\PC\source\repos\CSharpTutorials\IfElseStatements\obj\Debug\IfElseStatements.pdb

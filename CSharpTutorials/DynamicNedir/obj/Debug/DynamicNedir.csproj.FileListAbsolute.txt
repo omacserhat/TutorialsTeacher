@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\DynamicNedir\bin\Debug\DynamicNedir.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\DynamicNedir\bin\Debug\DynamicNedir.exe
+C:\Users\PC\source\repos\CSharpTutorials\DynamicNedir\bin\Debug\DynamicNedir.pdb
+C:\Users\PC\source\repos\CSharpTutorials\DynamicNedir\obj\Debug\DynamicNedir.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\DynamicNedir\obj\Debug\DynamicNedir.exe
+C:\Users\PC\source\repos\CSharpTutorials\DynamicNedir\obj\Debug\DynamicNedir.pdb
