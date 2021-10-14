@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\ReferansVeDegerTipi\bin\Debug\ReferansVeDegerTipi.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\ReferansVeDegerTipi\bin\Debug\ReferansVeDegerTipi.exe
+C:\Users\PC\source\repos\CSharpTutorials\ReferansVeDegerTipi\bin\Debug\ReferansVeDegerTipi.pdb
+C:\Users\PC\source\repos\CSharpTutorials\ReferansVeDegerTipi\obj\Debug\ReferenceAndValueType.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpTutorials\ReferansVeDegerTipi\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\ReferansVeDegerTipi\obj\Debug\ReferansVeDegerTipi.exe
+C:\Users\PC\source\repos\CSharpTutorials\ReferansVeDegerTipi\obj\Debug\ReferansVeDegerTipi.pdb
