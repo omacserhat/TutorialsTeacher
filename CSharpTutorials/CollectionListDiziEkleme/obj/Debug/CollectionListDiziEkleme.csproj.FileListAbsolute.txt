@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\CollectionListDiziEkleme\bin\Debug\CollectionListDiziEkleme.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\CollectionListDiziEkleme\bin\Debug\CollectionListDiziEkleme.exe
+C:\Users\PC\source\repos\CSharpTutorials\CollectionListDiziEkleme\bin\Debug\CollectionListDiziEkleme.pdb
+C:\Users\PC\source\repos\CSharpTutorials\CollectionListDiziEkleme\obj\Debug\CollectionListDiziEkleme.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\CollectionListDiziEkleme\obj\Debug\CollectionListDiziEkleme.exe
+C:\Users\PC\source\repos\CSharpTutorials\CollectionListDiziEkleme\obj\Debug\CollectionListDiziEkleme.pdb
+C:\Users\PC\source\repos\CSharpTutorials\CollectionListDiziEkleme\obj\Debug\CollectionListDiziEkleme.csproj.AssemblyReference.cache

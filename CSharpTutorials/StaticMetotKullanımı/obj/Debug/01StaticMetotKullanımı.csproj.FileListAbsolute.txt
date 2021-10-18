@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\StaticMetotKullanımı\bin\Debug\StaticMetotKullanımı.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\StaticMetotKullanımı\bin\Debug\StaticMetotKullanımı.exe
+C:\Users\PC\source\repos\CSharpTutorials\StaticMetotKullanımı\bin\Debug\StaticMetotKullanımı.pdb
+C:\Users\PC\source\repos\CSharpTutorials\StaticMetotKullanımı\obj\Debug\01StaticMetotKullanımı.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpTutorials\StaticMetotKullanımı\obj\Debug\01StaticMetotKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\StaticMetotKullanımı\obj\Debug\StaticMetotKullanımı.exe
+C:\Users\PC\source\repos\CSharpTutorials\StaticMetotKullanımı\obj\Debug\StaticMetotKullanımı.pdb

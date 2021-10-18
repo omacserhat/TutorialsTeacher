@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\02StaticDegiskenKullanımı\bin\Debug\02StaticDegiskenKullanımı.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\02StaticDegiskenKullanımı\bin\Debug\02StaticDegiskenKullanımı.exe
+C:\Users\PC\source\repos\CSharpTutorials\02StaticDegiskenKullanımı\bin\Debug\02StaticDegiskenKullanımı.pdb
+C:\Users\PC\source\repos\CSharpTutorials\02StaticDegiskenKullanımı\obj\Debug\02StaticDegiskenKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\02StaticDegiskenKullanımı\obj\Debug\02StaticDegiskenKullanımı.exe
+C:\Users\PC\source\repos\CSharpTutorials\02StaticDegiskenKullanımı\obj\Debug\02StaticDegiskenKullanımı.pdb

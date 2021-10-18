@@ -24,6 +24,7 @@ namespace StringBuilderNedir
             builder.Append(soyisim);
 
             Console.WriteLine(builder.ToString());
+            
 
         }
     }

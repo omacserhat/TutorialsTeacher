@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\Collections2\bin\Debug\Collections2.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\Collections2\bin\Debug\Collections2.exe
+C:\Users\PC\source\repos\CSharpTutorials\Collections2\bin\Debug\Collections2.pdb
+C:\Users\PC\source\repos\CSharpTutorials\Collections2\obj\Debug\CollectionsArrayList.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpTutorials\Collections2\obj\Debug\CollectionsArrayList.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\Collections2\obj\Debug\Collections2.exe
+C:\Users\PC\source\repos\CSharpTutorials\Collections2\obj\Debug\Collections2.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\IndexerKullanımı2\bin\Debug\IndexerKullanımı2.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\IndexerKullanımı2\bin\Debug\IndexerKullanımı2.exe
+C:\Users\PC\source\repos\CSharpTutorials\IndexerKullanımı2\bin\Debug\IndexerKullanımı2.pdb
+C:\Users\PC\source\repos\CSharpTutorials\IndexerKullanımı2\obj\Debug\IndexerKullanımı2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpTutorials\IndexerKullanımı2\obj\Debug\IndexerKullanımı2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\IndexerKullanımı2\obj\Debug\IndexerKullanımı2.exe
+C:\Users\PC\source\repos\CSharpTutorials\IndexerKullanımı2\obj\Debug\IndexerKullanımı2.pdb

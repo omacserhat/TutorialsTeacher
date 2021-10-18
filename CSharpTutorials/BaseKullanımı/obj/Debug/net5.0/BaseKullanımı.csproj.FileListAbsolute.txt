@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\bin\Debug\net5.0\BaseKullanımı.exe
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\bin\Debug\net5.0\BaseKullanımı.deps.json
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\bin\Debug\net5.0\BaseKullanımı.runtimeconfig.json
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\bin\Debug\net5.0\BaseKullanımı.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\bin\Debug\net5.0\BaseKullanımı.dll
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\bin\Debug\net5.0\ref\BaseKullanımı.dll
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\bin\Debug\net5.0\BaseKullanımı.pdb
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\obj\Debug\net5.0\BaseKullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\obj\Debug\net5.0\BaseKullanımı.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\obj\Debug\net5.0\BaseKullanımı.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\obj\Debug\net5.0\BaseKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\obj\Debug\net5.0\BaseKullanımı.dll
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\obj\Debug\net5.0\ref\BaseKullanımı.dll
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\obj\Debug\net5.0\BaseKullanımı.pdb
+C:\Users\PC\source\repos\CSharpTutorials\BaseKullanımı\obj\Debug\net5.0\BaseKullanımı.genruntimeconfig.cache

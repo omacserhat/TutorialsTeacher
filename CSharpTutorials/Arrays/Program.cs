@@ -8,6 +8,10 @@ namespace Arrays
 {
     class Program
     {
+        //lenght dizi öğelerine erişmek için kullanılır / eleman sayısını verir.
+        //max min sum(toplamı) average(ortalama) linq sorguları  
+        //Array.Sort(*diziadı*);  diziyi küçükten büyüğe sıralar
+        //Array.Reverse(*diziadı*); diziyi büyükten küçüğe sıralar 
         static void Main(string[] args)
         {
             string[] students = new string[3] { "Engin", "Derin", "Salih" };

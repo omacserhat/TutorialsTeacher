@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\SortedList\bin\Debug\SortedList.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\SortedList\bin\Debug\SortedList.exe
+C:\Users\PC\source\repos\CSharpTutorials\SortedList\bin\Debug\SortedList.pdb
+C:\Users\PC\source\repos\CSharpTutorials\SortedList\obj\Debug\SortedListNedir.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\SortedList\obj\Debug\SortedList.exe
+C:\Users\PC\source\repos\CSharpTutorials\SortedList\obj\Debug\SortedList.pdb

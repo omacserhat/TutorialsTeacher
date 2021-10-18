@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsIDictionary\bin\Debug\CollectionsIDictionary.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsIDictionary\bin\Debug\CollectionsIDictionary.exe
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsIDictionary\bin\Debug\CollectionsIDictionary.pdb
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsIDictionary\obj\Debug\CollectionsIDictionary.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsIDictionary\obj\Debug\CollectionsIDictionary.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsIDictionary\obj\Debug\CollectionsIDictionary.exe
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsIDictionary\obj\Debug\CollectionsIDictionary.pdb

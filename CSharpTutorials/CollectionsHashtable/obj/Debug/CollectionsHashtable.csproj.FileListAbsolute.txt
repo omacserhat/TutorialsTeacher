@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsHashtable\bin\Debug\CollectionsHashtable.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsHashtable\bin\Debug\CollectionsHashtable.exe
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsHashtable\bin\Debug\CollectionsHashtable.pdb
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsHashtable\obj\Debug\CollectionsHashtable.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsHashtable\obj\Debug\CollectionsHashtable.exe
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsHashtable\obj\Debug\CollectionsHashtable.pdb
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsHashtable\obj\Debug\CollectionsHashtable.csproj.AssemblyReference.cache

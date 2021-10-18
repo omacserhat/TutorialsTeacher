@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\StaticYapıcıMetotKullanımı\bin\Debug\StaticYapıcıMetotKullanımı.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\StaticYapıcıMetotKullanımı\bin\Debug\StaticYapıcıMetotKullanımı.exe
+C:\Users\PC\source\repos\CSharpTutorials\StaticYapıcıMetotKullanımı\bin\Debug\StaticYapıcıMetotKullanımı.pdb
+C:\Users\PC\source\repos\CSharpTutorials\StaticYapıcıMetotKullanımı\obj\Debug\03StaticYapıcıMetotKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\StaticYapıcıMetotKullanımı\obj\Debug\StaticYapıcıMetotKullanımı.exe
+C:\Users\PC\source\repos\CSharpTutorials\StaticYapıcıMetotKullanımı\obj\Debug\StaticYapıcıMetotKullanımı.pdb

@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsStack\bin\Debug\CollectionsStack.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsStack\bin\Debug\CollectionsStack.exe
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsStack\bin\Debug\CollectionsStack.pdb
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsStack\obj\Debug\CollectionsStack.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsStack\obj\Debug\CollectionsStack.exe
+C:\Users\PC\source\repos\CSharpTutorials\CollectionsStack\obj\Debug\CollectionsStack.pdb
