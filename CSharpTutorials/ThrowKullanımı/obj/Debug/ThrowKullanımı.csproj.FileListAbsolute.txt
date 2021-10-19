@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\ThrowKullanımı\bin\Debug\ThrowKullanımı.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\ThrowKullanımı\bin\Debug\ThrowKullanımı.exe
+C:\Users\PC\source\repos\CSharpTutorials\ThrowKullanımı\bin\Debug\ThrowKullanımı.pdb
+C:\Users\PC\source\repos\CSharpTutorials\ThrowKullanımı\obj\Debug\ThrowKullanımı.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpTutorials\ThrowKullanımı\obj\Debug\ThrowKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\ThrowKullanımı\obj\Debug\ThrowKullanımı.exe
+C:\Users\PC\source\repos\CSharpTutorials\ThrowKullanımı\obj\Debug\ThrowKullanımı.pdb

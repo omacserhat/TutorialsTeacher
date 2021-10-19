@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\Delegate1Func\bin\Debug\Delegate1Func.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\Delegate1Func\bin\Debug\Delegate1Func.exe
+C:\Users\PC\source\repos\CSharpTutorials\Delegate1Func\bin\Debug\Delegate1Func.pdb
+C:\Users\PC\source\repos\CSharpTutorials\Delegate1Func\obj\Debug\Delegates1Func.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpTutorials\Delegate1Func\obj\Debug\Delegates1Func.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\Delegate1Func\obj\Debug\Delegate1Func.exe
+C:\Users\PC\source\repos\CSharpTutorials\Delegate1Func\obj\Debug\Delegate1Func.pdb

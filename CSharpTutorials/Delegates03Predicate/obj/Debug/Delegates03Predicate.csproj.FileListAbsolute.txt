@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\Delegates03Predicate\bin\Debug\Delegates03Predicate.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\Delegates03Predicate\bin\Debug\Delegates03Predicate.exe
+C:\Users\PC\source\repos\CSharpTutorials\Delegates03Predicate\bin\Debug\Delegates03Predicate.pdb
+C:\Users\PC\source\repos\CSharpTutorials\Delegates03Predicate\obj\Debug\Delegates03Predicate.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\Delegates03Predicate\obj\Debug\Delegates03Predicate.exe
+C:\Users\PC\source\repos\CSharpTutorials\Delegates03Predicate\obj\Debug\Delegates03Predicate.pdb

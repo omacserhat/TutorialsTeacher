@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\CSharpTutorials\ValueTuple\bin\Debug\ValueTuple.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\ValueTuple\bin\Debug\ValueTuple.exe
+C:\Users\PC\source\repos\CSharpTutorials\ValueTuple\bin\Debug\ValueTuple.pdb
+C:\Users\PC\source\repos\CSharpTutorials\ValueTuple\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\source\repos\CSharpTutorials\ValueTuple\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\source\repos\CSharpTutorials\ValueTuple\obj\Debug\ValueTuple.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpTutorials\ValueTuple\obj\Debug\ValueTuple.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\ValueTuple\obj\Debug\ValueTuple.exe
+C:\Users\PC\source\repos\CSharpTutorials\ValueTuple\obj\Debug\ValueTuple.pdb

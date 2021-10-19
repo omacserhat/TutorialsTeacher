@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CSharpTutorials\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\PC\source\repos\CSharpTutorials\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\PC\source\repos\CSharpTutorials\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\PC\source\repos\CSharpTutorials\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
