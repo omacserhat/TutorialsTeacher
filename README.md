@@ -1,6 +1,4 @@
-# Bilgi olmayan yerde, cehalet ilim olur... :)
-
-### ÇOĞUNLUKLA C# VE YAZILIMCI KAVRAMLARI İÇERMEKTEDİR.
+# ÇOĞUNLUKLA C# VE YAZILIMCI KAVRAMLARI İÇERMEKTEDİR.
 
 
 ## C# Yazılım Kavramları
