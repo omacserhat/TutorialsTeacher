@@ -1,6 +1,4 @@
-# Bilgi olmayan yerde, cehalet ilim olur... :)
-
-### ÇOĞUNLUKLA C# VE YAZILIMCI KAVRAMLARI İÇERMEKTEDİR.
+# ÇOĞUNLUKLA C# VE YAZILIMCI KAVRAMLARI İÇERMEKTEDİR.
 
 
 ## C# Yazılım Kavramları
@@ -91,3 +89,34 @@ Definition of Done (DoD) Product Backlog Item’ların (PBI) istenen kalitede te
 * Fonksiyonel Test	Evet
 * KKT	            Hayır
 * Dokümantasyon	    Hayır
+
+# ŞİFRELEMELER
+
+### Base64String Nedir? 
+
+>İkili verileri temel 64 basamakları olarak kodlayan belirtilen dizeyi, eşdeğer 8 bitlik işaretsiz bir tamsayı dizisine dönüştürür.
+
+### HashCode Nedir?
+
+>HashCode , değişken uzunluklu veri kümelerini, sabit uzunluklu veri kümelerine haritalamak amacıyla kullanılan hash algoritması sonucu ortaya çıkan koddur.
+
+## C# ile md5 şifreleme
+
+### MD5:
+>Md5 aslında bir şifreleme algoritması değildir. Tasarlanma amacı dosya ve verilerin hash’ini -parmak izini- çıkarmaktır. 
+Yani siz ister tek bir kelimeyi, isterseniz de 5 gb büyüklüğünde bir veriyi md5 ile şifreleyin sonuç olarak 128 bit uzunluğunda bir değer üretilir.
+
+>Md5 algoritması tek yönlü çalışan bir şifreleme tekniğidir. Yani şifrelenen veriye decrypt yapılarak verinin ilk haline ulaşmak mümkün değildir.
+
+>MD5 Şifreleme Nerelerde Kullanılır?
+
+* İnternetten indirdiğiniz bir cd/dvd imajıyla birlikte genellikle birde Md5 hash değeri verilir. Bu şekilde dosyanın sorunsuz inip inmediği kontrol edilebilir.
+* İki tane verinin içeriğine bakmadan aynı olup olmadığı karşılaştırılabilir.
+* Veritabanı ki şifre alanları şifrelenerek saklanabilir.
+* Büyük veritabanlarında çeşitli matematiksel hesaplamalarla verinin bulunduğu konum tespit edilebilir.
+
+### Hash ve Encrypt&Decrypt Farkı
+
+>Hash Functionlar, Şifreleme (Encryption)’dan farklı olarak MD5, SHA1, SHA2, BSD, CHECKSUM  gibi farklı isimler ile adlandırılabilen, geri dönüşü olmayan, yani tek yönlü çıktılar veren yapılardır. Asıl amacı, ilgili datanın bir yerden bir yere taşınması değil, eşlenik bir datanın orijinali ile aynı olduğuna dair bir onayın alınmasıdır. Örneğin Passwordler başka bir yerde okunmayan, sadece doğruluğu onaylanan alanlardır. Aynı Passwordler için, aynı Hash kodunun üretilmesi gerekmektedir. Hash kodların farklı olması durumunda, yanlış password’ün girildiği anlaşılır. 
+
+>“Hash” fonksiyonları güvenlikten ziyade, hız için yaratılmışlardır.
