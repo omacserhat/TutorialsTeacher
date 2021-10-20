@@ -115,7 +115,7 @@ Yani siz ister tek bir kelimeyi, isterseniz de 5 gb büyüklüğünde bir veriyi
 * Veritabanı ki şifre alanları şifrelenerek saklanabilir.
 * Büyük veritabanlarında çeşitli matematiksel hesaplamalarla verinin bulunduğu konum tespit edilebilir.
 
-### Hash ve Encryption&Decryption Farkı
+### Hash ve Encrypt&Decrypt Farkı
 
 >Hash Functionlar, Şifreleme (Encryption)’dan farklı olarak MD5, SHA1, SHA2, BSD, CHECKSUM  gibi farklı isimler ile adlandırılabilen, geri dönüşü olmayan, yani tek yönlü çıktılar veren yapılardır. Asıl amacı, ilgili datanın bir yerden bir yere taşınması değil, eşlenik bir datanın orijinali ile aynı olduğuna dair bir onayın alınmasıdır. Örneğin Passwordler başka bir yerde okunmayan, sadece doğruluğu onaylanan alanlardır. Aynı Passwordler için, aynı Hash kodunun üretilmesi gerekmektedir. Hash kodların farklı olması durumunda, yanlış password’ün girildiği anlaşılır. 
 
