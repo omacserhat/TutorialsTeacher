@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\CSharpTutorials\OrderBy\bin\Debug\OrderBy.exe.config
+C:\Users\PC\source\repos\CSharpTutorials\OrderBy\bin\Debug\OrderBy.exe
+C:\Users\PC\source\repos\CSharpTutorials\OrderBy\bin\Debug\OrderBy.pdb
+C:\Users\PC\source\repos\CSharpTutorials\OrderBy\obj\Debug\OrderBy.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpTutorials\OrderBy\obj\Debug\OrderBy.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpTutorials\OrderBy\obj\Debug\OrderBy.exe
+C:\Users\PC\source\repos\CSharpTutorials\OrderBy\obj\Debug\OrderBy.pdb
