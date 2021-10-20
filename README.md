@@ -93,9 +93,9 @@ Definition of Done (DoD) Product Backlog Item’ların (PBI) istenen kalitede te
 
 ### Base64String Nedir? 
 
-İkili verileri temel 64 basamakları olarak kodlayan belirtilen dizeyi, eşdeğer 8 bitlik işaretsiz bir tamsayı dizisine dönüştürür.
+>İkili verileri temel 64 basamakları olarak kodlayan belirtilen dizeyi, eşdeğer 8 bitlik işaretsiz bir tamsayı dizisine dönüştürür.
 
-###HashCode Nedir?
+### HashCode Nedir?
 
-HashCode , değişken uzunluklu veri kümelerini, sabit uzunluklu veri kümelerine haritalamak amacıyla kullanılan hash algoritması sonucu ortaya çıkan koddur.
+>HashCode , değişken uzunluklu veri kümelerini, sabit uzunluklu veri kümelerine haritalamak amacıyla kullanılan hash algoritması sonucu ortaya çıkan koddur.
 
