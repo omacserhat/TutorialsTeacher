@@ -90,6 +90,7 @@ Definition of Done (DoD) Product Backlog Item’ların (PBI) istenen kalitede te
 * KKT	            Hayır
 * Dokümantasyon	    Hayır
 
+# ŞİFRELEMELER
 
 ### Base64String Nedir? 
 
@@ -99,3 +100,17 @@ Definition of Done (DoD) Product Backlog Item’ların (PBI) istenen kalitede te
 
 >HashCode , değişken uzunluklu veri kümelerini, sabit uzunluklu veri kümelerine haritalamak amacıyla kullanılan hash algoritması sonucu ortaya çıkan koddur.
 
+## C# ile md5 şifreleme
+
+### MD5:
+>Md5 aslında bir şifreleme algoritması değildir. Tasarlanma amacı dosya ve verilerin hash’ini -parmak izini- çıkarmaktır. 
+Yani siz ister tek bir kelimeyi, isterseniz de 5 gb büyüklüğünde bir veriyi md5 ile şifreleyin sonuç olarak 128 bit uzunluğunda bir değer üretilir.
+
+>Md5 algoritması tek yönlü çalışan bir şifreleme tekniğidir. Yani şifrelenen veriye decrypt yapılarak verinin ilk haline ulaşmak mümkün değildir.
+
+>MD5 Şifreleme Nerelerde Kullanılır?
+
+* İnternetten indirdiğiniz bir cd/dvd imajıyla birlikte genellikle birde Md5 hash değeri verilir. Bu şekilde dosyanın sorunsuz inip inmediği kontrol edilebilir.
+* İki tane verinin içeriğine bakmadan aynı olup olmadığı karşılaştırılabilir.
+* Veritabanı ki şifre alanları şifrelenerek saklanabilir.
+* Büyük veritabanlarında çeşitli matematiksel hesaplamalarla verinin bulunduğu konum tespit edilebilir.
