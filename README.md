@@ -1,7 +1,7 @@
 ## C# Yazılım Kavramları
 
 >Compile: 
->Sadece editör de o an açık olan sayfayı derler.
+>Sadece editörde o an açık olan sayfayı derler.
 
  >Build:
  >En son yapılan build işleminden sonra üzerinde değişiklik yapılan tüm dosyaları derler.
