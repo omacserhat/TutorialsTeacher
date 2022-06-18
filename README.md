@@ -1,6 +1,3 @@
-# ÇOĞUNLUKLA C# VE YAZILIMCI KAVRAMLARI İÇERMEKTEDİR.
-
-
 ## C# Yazılım Kavramları
 
 >Compile: 
